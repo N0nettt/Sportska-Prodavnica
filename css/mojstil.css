@@ -1,0 +1,264 @@
+
+body {
+    
+   box-sizing: border-box;
+   margin: 0;
+   background-color: #ffffff;
+}
+.row{
+    margin-bottom: 30px;  
+
+}
+
+.thumbnail:hover img{
+    opacity: 0.7;
+}
+
+#linkthumb {
+    text-decoration: none;
+}
+
+
+
+.thumbnail .caption h3{
+    margin-top: 0px;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    font-family: Segoe UI;
+}
+
+.thumbnail .caption p {
+    font-family: Segoe UI;
+    margin: 0px;
+    font-size: 18px;
+}
+.thumbnail {
+    text-align: center; 
+    padding: 0px;
+}
+
+.col-md-2 a img{
+
+}
+
+
+
+#logorow{
+
+    padding: 5px 0px;
+
+}
+
+nav {
+    color: black;
+    padding-bottom: 0px;
+}
+
+
+.glyphicon-home{
+    font-size: 60px;
+    color: #00e6e6;
+}
+
+.glyphicon-home:hover{
+    color: #99ffff;
+}
+
+.hrow{
+
+    height: 100px;
+    width: auto;
+    padding: 20px 0px;
+
+}
+
+h1{
+    font-size: 35px;
+    margin-top: 5px;
+}
+
+.divcenter{
+
+    text-align: center;
+}
+
+.btn-info:hover {
+    color: white;
+    background-color: #3385ff;
+    border-color: #adadad;
+}
+
+.btn-info{
+    color: white;
+    background-color: #00e6e6;
+    border-color: #adadad;
+    cursor: pointer;
+}
+
+
+.btn-default:hover {
+    color: whitesmoke;
+    background-color: #99ffff;
+    border-color: #adadad;
+}
+
+.btn-default{
+    color: whitesmoke;
+    background-color: #00e6e6;
+    border-color: #adadad;
+    cursor: pointer;
+}
+
+
+.navbar {
+    background-color: white;
+    font-weight: bold;
+   font-family: Segoe UI;
+}
+
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:active {
+    color: black;
+    background-color: #99ffff ;
+    font-family: Segoe UI;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: black;
+    background-color: #99ffff;
+    font-family: Segoe UI;
+}
+
+.dropdown-menu>li>a:hover {
+    background-color: #99ffff ;
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+}
+
+h2{
+    font-size: 17px;
+}
+
+.btnlink{
+    background-color: transparent;
+    padding: 0px 0px;
+    margin-bottom: 3px;
+    font-size: 16px;
+    font-family: Segoe UI;
+    color: white;
+    border: 0px;
+}
+
+p a {
+    font-size: 18px; 
+    font-family: Segoe UI;
+    color: white;
+}
+
+.curlink{
+    text-decoration: underline;
+}
+.curlink:hover{
+    font-size: 18px; 
+    font-family: Segoe UI;
+    color: white;
+    border-width: 1px;
+    border: solid;
+    text-decoration: none;
+
+}
+
+
+.fab{
+    color: #00e6e6;
+}
+
+.fab:hover{
+    color: #99ffff;
+}
+
+.glyphicon-copyright-mark{
+    color: #00e6e6 ;
+}
+
+footer{
+
+    padding-top: 10px;
+    clear: both;
+    position: relative;
+    height: 0px;
+    margin-bottom: -200px;
+}
+
+.panel-footer{
+
+    background-color: #ffffff;
+    padding-bottom: 0px;
+    border-color: black;
+    border-width: 2px;
+}
+
+
+.brendLbl 
+{
+    padding-top: 2px;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.formBrend
+{
+
+    padding-bottom: 7.5px;
+    border-bottom: 1.5px solid black;
+    text-align: center;
+}
+
+
+.tableObuca
+{
+
+    padding: 10px; 
+}
+
+#btnPlati
+{   
+    font-size: 20px;
+    box-sizing: border-box;
+    color: white;
+    width: 13%;
+    height: 5%;
+    margin: 0 auto;
+}
+
+#divKorpa
+{
+    text-align: center;
+}
+
+.col-md-12
+{
+    margin-top: -8px;
+}
+
+#menu{
+
+    
+    padding-right:  -10px;
+    padding-top: 3px;
+    height: 8%;
+    background-color: #00e6e6;
+    color: white;
+}
+
+.text-danger{
+    color: #00e6e6;
+}
+
+
